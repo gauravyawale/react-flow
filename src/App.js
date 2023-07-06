@@ -13,7 +13,6 @@ import "./App.css";
 import LeftSideMenu from "./components/LeftSideMenu";
 import Header from "./components/Header";
 import CustomNode from "./components/CustomNode";
-import { customNodeTypes } from "./components/customNodeTypes";
 import { HANDLE_SPACING } from "./components/constants";
 
 const nodeTypes = { customNode: CustomNode };
